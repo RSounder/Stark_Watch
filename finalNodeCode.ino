@@ -1,3 +1,9 @@
+/*
+Code written by Sounder Rajendran on June 12, 2019
+sounderajendran@gmail.com | Github: https://github.com/RSounder
+All rights reserved. Using entire code or a part of it can be done for free of cost, provided this attribution text remains intact and unaltered.  
+*/
+
 #include <Adafruit_NeoPixel.h>      //Include AdaFruit NEO Library
 #include <ESP8266WiFi.h>
 
