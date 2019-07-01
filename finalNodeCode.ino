@@ -10,8 +10,8 @@ All rights reserved. Using entire code or a part of it can be done for free of c
 WiFiClient client;
 WiFiServer server(80);
 
-const char* ssid = "Stark";
-const char* password = "eachday97";
+const char* ssid = "Your_SSID";
+const char* password = "Your_Password";
 
 String  data =""; 
 
